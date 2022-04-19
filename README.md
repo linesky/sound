@@ -1,2 +1,2 @@
 # sound
-hibrid project free basic and gambas piano project uses gpio 4
+hibrid project c and gambas piano project uses gpio 4
